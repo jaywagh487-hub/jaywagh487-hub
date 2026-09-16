@@ -29,7 +29,7 @@ I’m passionate about building **practical, user-friendly and AI-powered applic
 
 ## 🚀 Featured Project
 
-### 🥗 NutriSense-AI
+### 🥗 Health AI
 
 **AI-powered nutrition deficiency analysis web application built with Flask.**
 
